@@ -9,6 +9,26 @@
       "comparison": "exact",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "python",
+      "setup": "",
+      "run": "Hello world",
+      "input": "",
+      "output": "Hello world",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Python",
+      "setup": "",
+      "run": "Python.py",
+      "input": "",
+      "output": "Hello world",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
